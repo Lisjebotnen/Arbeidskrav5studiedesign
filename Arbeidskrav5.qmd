@@ -4,3 +4,8 @@ format: pdf
 ---
 
 SKRIV ARBEIDSKRAVET HER! Lykke til! Karoline e best! Ho klarte å koble opp r studio til github! Berre spør om det e noko meir du lure på! 
+
+HUSKELISTE: 
+Først begynn å skriv. Deretter LAGRE!! Huk av "Arbeidskrav5" under "GIT" og trykk commit!!
+Deretter: skriv en melding i "Commit message"! Deretter må du trykke "PUSH" (og sannsynligvis skrive passordet ditt til MAC'en). 
+SÅNN! Lasta opp på github!

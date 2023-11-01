@@ -3,9 +3,9 @@ title: "Arbeidskrav 5 Studiedesign"
 format: pdf
 ---
 
-SKRIV ARBEIDSKRAVET HER! Lykke til! Karoline e best! Ho klarte å koble opp r studio til github! Berre spør om det e noko meir du lure på! 
+SKRIV ARBEIDSKRAVET HER! Lykke til! Karoline e best! Ho klarte å koble opp r studio til github! (Du kan og skrive i "visual" og ikkje i "source" som du e i no! Endre dette rett over "Title: Arbeidskrav 5 +++) Berre spør om det e noko meir du lure på! 
 
 HUSKELISTE: 
 Først begynn å skriv. Deretter LAGRE!! Huk av "Arbeidskrav5" under "GIT" og trykk commit!!
-Deretter: skriv en melding i "Commit message"! Deretter må du trykke "PUSH" (og sannsynligvis skrive passordet ditt til MAC'en). 
-SÅNN! Lasta opp på github!
+Deretter: skriv en melding i "Commit message" og trykk "COMMIT"! Deretter må du trykke "PUSH" (og sannsynligvis skrive passordet ditt til MAC'en). 
+SÅNN! Lasta opp på github! Lett som en plett din lille nisse!
